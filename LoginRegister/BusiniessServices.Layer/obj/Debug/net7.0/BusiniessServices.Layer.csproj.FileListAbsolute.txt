@@ -1,0 +1,15 @@
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\bin\Debug\net7.0\BusiniessServices.Layer.deps.json
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\bin\Debug\net7.0\BusiniessServices.Layer.dll
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\bin\Debug\net7.0\BusiniessServices.Layer.pdb
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\bin\Debug\net7.0\DataAccess.Layer.dll
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\bin\Debug\net7.0\DataAccess.Layer.pdb
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\obj\Debug\net7.0\BusiniessServices.Layer.csproj.AssemblyReference.cache
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\obj\Debug\net7.0\BusiniessServices.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\obj\Debug\net7.0\BusiniessServices.Layer.AssemblyInfoInputs.cache
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\obj\Debug\net7.0\BusiniessServices.Layer.AssemblyInfo.cs
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\obj\Debug\net7.0\BusiniessServices.Layer.csproj.CoreCompileInputs.cache
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\obj\Debug\net7.0\BusiniessServices.Layer.csproj.CopyComplete
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\obj\Debug\net7.0\BusiniessServices.Layer.dll
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\obj\Debug\net7.0\refint\BusiniessServices.Layer.dll
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\obj\Debug\net7.0\BusiniessServices.Layer.pdb
+C:\Users\Hp-Pc\source\repos\LoginRegister\BusiniessServices.Layer\obj\Debug\net7.0\ref\BusiniessServices.Layer.dll
